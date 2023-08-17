@@ -1,0 +1,102 @@
+.dashboard {
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid aquamarine;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.utama {
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.choiceTriangle {
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua  ;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+}
+
+.choiceJajarGjg {
+    text-align: center;    
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.gmbrTri {
+    margin: 10px;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.rumusTerakhir {
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.tmblHitung {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.tmblReset {
+    margin-right: 10px;
+    text-align: right;
+}
+
+button {
+    /* top:50%; */
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+}
+
+.desk1, .desk2 {
+    margin-left: 15px;
+}
+
+.input-alas, .input-tinggi, .input-sisi1, .input-sisi2, .input-sisi3 {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-right: 15px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
